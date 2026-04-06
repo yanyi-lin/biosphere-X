@@ -1,5 +1,4 @@
-# 项目 README：多生物圈耦合模拟器 (Multi-Biosphere Coupling Simulator)
-
+# BiospherX
 ## 1. 项目目标
 
 本项目旨在构建一个**可交互、可扩展的封闭生态系统模拟平台**，用户能够：
